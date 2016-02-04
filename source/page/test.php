@@ -32,8 +32,8 @@ else
 {
 }
 
-
-$apkfile = "$path/IITC_Mobile-$path.apk";
+$basename = basename($path);
+$apkfile = "$path/IITC_Mobile-$basename.apk";
 
 ?>
 
