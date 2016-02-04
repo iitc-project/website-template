@@ -13,7 +13,7 @@ Our current suggestions are:
 
 <div class="media">
  <a class="pull-left" href="http://www.fsf.org/" style="min-width: 160px">
-  <img class="media-object" src="assets/img/fsf-logo.png" alt="FSF Logo" title="FSF">
+  <img class="media-object" src="/assets/img/fsf-logo.png" alt="FSF Logo" title="FSF">
  </a>
  <div class="media-body">
   <h3 class="media-heading">Free Software Foundation</h3>
@@ -29,7 +29,7 @@ Our current suggestions are:
 
 <div class="media">
  <a class="pull-left" href="https://www.eff.org/" style="min-width: 160px">
-  <img class="media-object" src="assets/img/eff-logo.png" alt="EFF Logo" title="EFF">
+  <img class="media-object" src="/assets/img/eff-logo.png" alt="EFF Logo" title="EFF">
  </a>
  <div class="media-body">
   <h3 class="media-heading">Electronic Frontier Foundation</h3>
