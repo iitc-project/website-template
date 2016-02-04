@@ -1,0 +1,17 @@
+#!/bin/sh
+
+pages="home news faq desktop mobile test developer about donate"
+
+for page in $pages
+do
+ if [ $page = 'home' ]
+ then
+  output=output/index.html
+ else
+  mkdir -p output/$page
+  output=output/$page/index.html
+ fi
+
+ PAGE=$page php source/template.php > $output
+
+done
