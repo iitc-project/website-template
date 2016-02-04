@@ -1,0 +1,3 @@
+#!/bin/sh
+
+./deploy && cd ../iitc-project.github.io && git add . && git commit -m "website update" && git push

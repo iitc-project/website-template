@@ -44,7 +44,9 @@ function iitcMobileDownload ( $apkfile )
 
 	# we need an absolute link for the QR Code
 	# get the URL of this page itself
-	$pageurl = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] ? "https" : "http")."://".$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'];
+#	$pageurl = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] ? "https" : "http")."://".$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'];
+	$pageurl = "https://iitc.me/";
+
 	$apkurl = url_to_absolute ( $pageurl, $apkfile );
 ?>
 
@@ -58,7 +60,7 @@ IITC Mobile version <?php print $apk_version; ?>, with IITC version <?php print 
 </p>
 
 <p>
-<a style="margin-right: 1em;" onclick="if(track){track('mobile','download','<?php print $apkfile; ?>');}" class="btn btn-large btn-primary" href="<?php print $apkfile; ?>">Download</a> or scan the QR Code
+<a style="margin-right: 1em;" class="btn btn-large btn-primary" href="/<?php print $apkfile; ?>">Download</a> or scan the QR Code
 </p>
 
 </div>

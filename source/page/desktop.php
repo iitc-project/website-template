@@ -73,5 +73,5 @@ a minority of users.
 </p>
 
 <?php
-iitcDesktopPluginDownloadTable ( "release" );
+iitcDesktopPluginDownloadTable ( "build/release" );
 ?>

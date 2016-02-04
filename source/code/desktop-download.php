@@ -10,7 +10,7 @@ function iitcDesktopDownload ( $build )
 
 	print "<p>IITC version $iitc_version</p>\n";
 
-	print "<a class=\"btn btn-large btn-primary\" onclick=\"if(track){track('desktop','iitc','$build');}\" href=\"$build/total-conversion-build.user.js\" target=\"_blank\">Download</a>\n";
+	print "<a class=\"btn btn-large btn-primary\" onclick=\"if(track){track('desktop','iitc','$build');}\" href=\"/$build/total-conversion-build.user.js\" target=\"_blank\">Download</a>\n";
 }
 
 function loadPopularity()
@@ -142,7 +142,7 @@ function iitcDesktopPluginDownloadTable ( $build )
 
 			if ( $category != "Deleted" )
 			{
-				print "<td class=\"download\" rowspan=\"2\"><a onclick=\"if(track){track('desktop','iitc-plugin-$basename','$build');}\" href=\"$path\" target=\"_blank\" class=\"btn btn-small btn-primary\" title=\"Download\"><span class=\"glyphicon glyphicon-download\"></span></a></td>";
+				print "<td class=\"download\" rowspan=\"2\"><a onclick=\"if(track){track('desktop','iitc-plugin-$basename','$build');}\" href=\"/$path\" target=\"_blank\" class=\"btn btn-small btn-primary\" title=\"Download\"><span class=\"glyphicon glyphicon-download\"></span></a></td>";
 			}
 
 			print "</tr>\n";

@@ -1,0 +1,3 @@
+#!/bin/sh
+
+cd ../iitc-project.github.io && rm -r * && cp -r ../website-template/output/. .

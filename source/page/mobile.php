@@ -39,7 +39,7 @@ IITC Mobile has some known problems, major issues are:
 
 include_once ( __DIR__ . "/../code/mobile-download.php" );
 
-$apkfile = "release/IITC_Mobile-release.apk";
+$apkfile = "build/release/IITC_Mobile-release.apk";
 
 
 if ( file_exists($apkfile) )
