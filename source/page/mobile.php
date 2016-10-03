@@ -28,7 +28,7 @@ IITC Mobile has some known problems, major issues are:
 <ol>
 <li>Some plugins do not work well, or at all.</li>
 <li>Pinch zoom hangs on some devices.
-<a href="https://github.com/jonatkins/ingress-intel-total-conversion/issues/257">details</a>.</li>
+<a href="https://github.com/iitc-project/ingress-intel-total-conversion/issues/257">details</a>.</li>
 </ol>
 </p>
 

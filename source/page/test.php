@@ -3,7 +3,7 @@
 <p>
 These test builds are made available for those who would like to try the latest development code without
 needing to build it yourself. Automated scripts should update these builds within an hour of a change being
-<a href="https://github.com/jonatkins/ingress-intel-total-conversion/commits/master">committed</a> to Github.
+<a href="https://github.com/iitc-project/ingress-intel-total-conversion/commits/master">committed</a> to Github.
 </p>
 
 <div class="alert alert-block alert-danger">
