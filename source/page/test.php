@@ -8,7 +8,7 @@ needing to build it yourself. Automated scripts should update these builds withi
 
 <div class="alert alert-block alert-danger">
 Test builds are built automatically. They could be <b>broken at any time</b>. If you have any doubts about using
-unstable software, please use the standard <a href="?page=desktop">desktop</a> or <a href="?page=mobile">mobile</a>
+unstable software, please use the standard <a href="/desktop/">desktop</a> or <a href="/mobile/">mobile</a>
 builds.
 </div>
 

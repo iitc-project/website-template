@@ -8,7 +8,7 @@ include_once ( __DIR__ . "/../code/desktop-download.php" );
 
 <p>
 IITC will work in the Chrome or Firefox browsers. It should also work with Opera and other browsers supporting
-userscripts, but these are far less tested. For Android phones, please see the <a href="?page=mobile">mobile</a> page.
+userscripts, but these are far less tested. For Android phones, please see the <a href="/mobile/">mobile</a> page.
 </p>
 
 <h4>Chrome</h4>

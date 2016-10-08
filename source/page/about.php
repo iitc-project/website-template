@@ -6,7 +6,7 @@ Ingress Intel Total Conversion (IITC) is a browser modification to the <a href="
 </p>
 
 <p>
-IITC is an open source project. New developers are welcome - see the <a href="?page=develop">developers page</a>
+IITC is an open source project. New developers are welcome - see the <a href="/develop/">developers page</a>
 for details.
 </p>
 

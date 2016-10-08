@@ -7,8 +7,8 @@ Welcome to the home page of <abbr title="Ingress Intel Total Conversion">IITC</a
 <p>
 IITC is a browser add-on that modifies the Ingress intel map. It is faster than the standard site, and
 offers many more features. It is available for
-<a href="?page=desktop">desktop browsers</a>, such as Chrome and Firefox, and as a
-<a href="?page=mobile">mobile application</a>.
+<a href="/desktop/">desktop browsers</a>, such as Chrome and Firefox, and as a
+<a href="/mobile/">mobile application</a>.
 </p>
 
 <h3>Latest news</h3>
@@ -34,4 +34,4 @@ even when you zoom out</li>
 <b>Update 2nd October 2016</b>
 <p>IITC 0.25.2 released. This fixes loading IITC after Niantic stopped redirecting ingress.com to www.ingress.com.</p>
 
-<a class="btn btn-default btn-sm" href="?page=news">Older news</a>
+<a class="btn btn-default btn-sm" href="/news/">Older news</a>

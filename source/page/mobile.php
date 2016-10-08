@@ -1,4 +1,3 @@
-
 <h2>IITC Mobile</h2>
 
 <p>
@@ -56,5 +55,5 @@ else
 
 <div class="alert alert-info">
 As IITC Mobile is regularly updated, you may want to consider trying the latest
-<a href="?page=test#test-mobile">test build</a>.
+<a href="/test/#test-mobile">test build</a>.
 </div>
