@@ -159,7 +159,7 @@ include "page/$page.php";
 
 <!-- ******** javascript includes ******** -->
 
-<script src="http://code.jquery.com/jquery.js"></script>
+<script src="https://code.jquery.com/jquery.js"></script>
 <script src="/assets/bootstrap/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="https://apis.google.com/js/platform.js"></script>
 
